@@ -1,0 +1,21 @@
+{
+    "exercises": [
+        {
+            "image": "./data/exerciseImages/back/tBarRows.jpeg",
+            "muscles": "Back",
+            "name": "T-Bar Rows",
+            "technique": "./data/exerciseTechniques/back/tBarRows.txt",
+            "equipment": "T-Bar Row Machine & Weight Plates",
+            "selected": false
+        },
+        {
+            "image": "./data/exerciseImages/leg/sumoDeadlifts.jpeg",
+            "muscles": "Leg-Hamstring",
+            "name": "Sumo Deadlifts",
+            "technique": "./data/exerciseTechniques/leg/sumoDeadlifts.txt",
+            "equipment": "Barbell/Dumbbells",
+            "selected": false
+        }
+    ],
+    "My Workout": "My Workout"
+}

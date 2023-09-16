@@ -1,0 +1,33 @@
+{
+    "exercises": [
+      {
+        "name": "Incline Chest Press Machine",
+        "muscles": "Chest-Upper",
+        "technique": "./data/exerciseTechniques/chest/inclineChestPress.txt",
+        "image": "./data/exerciseImages/chest/inclineChestPress.jpeg",
+        "equipment": "Chest Press Machine"
+      },
+      {
+        "name": "T-Bar Rows",
+        "muscles": "Back",
+        "technique": "./data/exerciseTechniques/back/tBarRows.txt",
+        "image": "./data/exerciseImages/back/tBarRows.jpeg",
+        "equipment": "T-Bar Row Machine & Weight Plates"
+      },
+      {
+        "name": "Dumbbell Shoulder Press",
+        "muscles": "Shoulder",
+        "technique": "./data/exerciseTechniques/shoulder/shoulderPress.txt",
+        "image": "./data/exerciseImages/shoulder/shoulderPress.jpeg",
+        "equipment": "Dumbbells & Bench"
+      },
+      {
+        "name": "Sumo Deadlifts",
+        "muscles": "Leg-Hamstring",
+        "technique": "./data/exerciseTechniques/leg/sumoDeadlifts.txt",
+        "image": "./data/exerciseImages/leg/sumoDeadlifts.jpeg",
+        "equipment": "Barbell/Dumbbells"
+      }
+    ],
+    "name": "My Workout"
+}

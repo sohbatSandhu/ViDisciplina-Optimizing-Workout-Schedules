@@ -1,0 +1,101 @@
+{
+    "exercises": [
+        {
+            "image": "./data/exerciseImages/chest/cableFly.jpeg",
+            "muscles": "Chest-Full",
+            "name": "Cable Flyes",
+            "technique": "./data/exerciseTechniques/chest/cableFly.txt",
+            "equipment": "Cable Machine",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/chest/pushUps.jpeg",
+            "muscles": "Chest-Middle",
+            "name": "Push-Ups",
+            "technique": "./data/exerciseTechniques/chest/pushUps.txt",
+            "equipment": "None",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/back/tBarRows.jpeg",
+            "muscles": "Back",
+            "name": "T-Bar Rows",
+            "technique": "./data/exerciseTechniques/back/tBarRows.txt",
+            "equipment": "T-Bar Row Machine & Weight Plates",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/back/invertRow.jpeg",
+            "muscles": "Back",
+            "name": "Inverted Rows",
+            "technique": "./data/exerciseTechniques/back/invertRow.txt",
+            "equipment": "Squat Rack/Smith Machine",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/core/abTwist.jpeg",
+            "muscles": "Core",
+            "name": "Abdominal Twists",
+            "technique": "./data/exerciseTechniques/core/abTwist.txt",
+            "equipment": "Weight Plate/Medicine Ball (optional)",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/core/bicycleCrunches.jpeg",
+            "muscles": "Core",
+            "name": "Bicycle crunches",
+            "technique": "./data/exerciseTechniques/core/bicycleCrunches.txt",
+            "equipment": "None",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/arm/hammerCurl.jpeg",
+            "muscles": "Arm-Biceps",
+            "name": "Hammer Curls",
+            "technique": "./data/exerciseTechniques/arm/hammerCurl.txt",
+            "equipment": "Dumbbells",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/arm/closeGripBenchPress.jpeg",
+            "muscles": "Arm-Triceps",
+            "name": "Flat Close Grip Bench Press",
+            "technique": "./data/exerciseTechniques/arm/closeGripBenchPress.txt",
+            "equipment": "Barbell & Bench",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/shoulder/latRaise.jpeg",
+            "muscles": "Shoulder",
+            "name": "Dumbbell/Cable Lateral Raises",
+            "technique": "./data/exerciseTechniques/shoulder/latRaise.txt",
+            "equipment": "Dumbbells/Cable Machine",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/shoulder/barbellRow.jpeg",
+            "muscles": "Shoulder",
+            "name": "Barbell Row",
+            "technique": "./data/exerciseTechniques/shoulder/barbellRow.txt",
+            "equipment": "Barbell & Bench",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/leg/legExt.jpeg",
+            "muscles": "Leg-Quads",
+            "name": "Leg Extensions",
+            "technique": "./data/exerciseTechniques/leg/legExt.txt",
+            "equipment": "Leg Extension Machine",
+            "selected": true
+        },
+        {
+            "image": "./data/exerciseImages/leg/hangingLegCurl.jpeg",
+            "muscles": "Leg-Hamstring",
+            "name": "Hanging Leg Curl",
+            "technique": "./data/exerciseTechniques/leg/hangingLegCurl.txt",
+            "equipment": "Machine",
+            "selected": true
+        }
+    ],
+    "My Workout": "My Workout"
+}
