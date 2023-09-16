@@ -1,0 +1,82 @@
+{
+  "exercises": [
+    {
+      "name": "Flat Barbell/Dumbbell Bench Press",
+      "muscles": "Chest-Full",
+      "technique": "./data/exerciseTechniques/chest/benchPress.txt",
+      "image": "./data/exerciseImages/chest/benchPress.jpeg",
+      "equipment": "Barbell/Dumbbells & Bench"
+    },
+    {
+      "name": "Flat Chest Press Machine",
+      "muscles": "Chest-Full",
+      "technique": "./data/exerciseTechniques/chest/chestPress.txt",
+      "image": "./data/exerciseImages/chest/chestPress.jpeg",
+      "equipment": "Chest Press Machine"
+    },
+    {
+      "name": "Flat Dumbbell Flyes",
+      "muscles": "Chest-Full",
+      "technique": "./data/exerciseTechniques/chest/dbFly.txt",
+      "image": "./data/exerciseImages/chest/dbFly.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "Cable Flyes",
+      "muscles": "Chest-Full",
+      "technique": "./data/exerciseTechniques/chest/cableFly.txt",
+      "image": "./data/exerciseImages/chest/cableFly.jpeg",
+      "equipment": "Cable Machine"
+    },
+    {
+      "name": "Incline Barbell/Dumbbell Bench Press",
+      "muscles": "Chest-Upper",
+      "technique": "./data/exerciseTechniques/chest/inclineBenchPress.txt",
+      "image": "./data/exerciseImages/chest/inclineBenchPress.jpeg",
+      "equipment": "Barbell/Dumbbells & Bench"
+    },
+    {
+      "name": "Incline Chest Press Machine",
+      "muscles": "Chest-Upper",
+      "technique": "./data/exerciseTechniques/chest/inclineChestPress.txt",
+      "image": "./data/exerciseImages/chest/inclineChestPress.jpeg",
+      "equipment": "Chest Press Machine"
+    },
+    {
+      "name": "Incline Dumbbell Flyes",
+      "muscles": "Chest-Upper",
+      "technique": "./data/exerciseTechniques/chest/inclineDBFly.txt",
+      "image": "./data/exerciseImages/chest/inclineDBFly.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "Push-Ups",
+      "muscles": "Chest-Middle",
+      "technique": "./data/exerciseTechniques/chest/pushUps.txt",
+      "image": "./data/exerciseImages/chest/pushUps.jpeg",
+      "equipment": "None"
+    },
+    {
+      "name": "Decline Barbell/Dumbbell Bench Press",
+      "muscles": "Chest-Lower",
+      "technique": "./data/exerciseTechniques/chest/declineBenchPress.txt",
+      "image": "./data/exerciseImages/chest/declineBenchPress.jpeg",
+      "equipment": "Barbell/Dumbbells & Bench"
+    },
+    {
+      "name": "Decline Push-Ups",
+      "muscles": "Chest-Lower",
+      "technique": "./data/exerciseTechniques/chest/declinePushUps.txt",
+      "image": "./data/exerciseImages/chest/declinePushUps.jpeg",
+      "equipment": "None"
+    },
+    {
+      "name": "Decline Dumbbell Flyes",
+      "muscles": "Chest-Lower",
+      "technique": "./data/exerciseTechniques/chest/declineDBFly.txt",
+      "image": "./data/exerciseImages/chest/declineDBFly.jpeg",
+      "equipment": "Dumbbells & Bench"
+    }
+  ],
+  "name": "My Workout"
+}

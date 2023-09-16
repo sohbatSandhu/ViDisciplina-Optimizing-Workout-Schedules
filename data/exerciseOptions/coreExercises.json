@@ -1,0 +1,61 @@
+{
+  "exercises": [
+    {
+      "name": "Reverse Crunches",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/revCrunches.txt",
+      "image": "./data/exerciseImages/core/revCrunches.jpeg",
+      "equipment": "None"
+    },
+    {
+      "name": "Knee Raise",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/kneeRaise.txt",
+      "image": "./data/exerciseImages/core/kneeRaise.jpeg",
+      "equipment": "Captain's Chair"
+    },
+    {
+      "name": "Abdominal Twists",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/abTwist.txt",
+      "image": "./data/exerciseImages/core/abTwist.jpeg",
+      "equipment": "Weight Plate/Medicine Ball (optional)"
+    },
+    {
+      "name": "Side Bends",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/sideBends.txt",
+      "image": "./data/exerciseImages/core/sideBends.jpeg",
+      "equipment": "Dumbbell"
+    },
+    {
+      "name": "Ab Wheel Rollout",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/abRollout.txt",
+      "image": "./data/exerciseImages/core/abRollout.jpeg",
+      "equipment": "Ab Wheel"
+    },
+    {
+      "name": "Bicycle crunches",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/bicycleCrunches.txt",
+      "image": "./data/exerciseImages/core/bicycleCrunches.jpeg",
+      "equipment": "None"
+    },
+    {
+      "name": "Cable Crunch",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/cableCrunch.txt",
+      "image": "./data/exerciseImages/core/cableCrunch.jpeg",
+      "equipment": "Cable Machine"
+    },
+    {
+      "name": "Scissor Kicks",
+      "muscles": "Core",
+      "technique": "./data/exerciseTechniques/core/scissorKicks.txt",
+      "image": "./data/exerciseImages/core/scissorKicks.jpeg",
+      "equipment": "None"
+    }
+  ],
+  "name": "My Workout"
+}

@@ -1,0 +1,61 @@
+{
+  "exercises": [
+    {
+      "name": "Standing Barbell/Dumbbell Curls",
+      "muscles": "Arm-Biceps",
+      "technique": "./data/exerciseTechniques/arm/bicepCurl.txt",
+      "image": "./data/exerciseImages/arm/bicepCurl.jpeg",
+      "equipment": "Barbell/Dumbbells"
+    },
+    {
+      "name": "Hammer Curls",
+      "muscles": "Arm-Biceps",
+      "technique": "./data/exerciseTechniques/arm/hammerCurl.txt",
+      "image": "./data/exerciseImages/arm/hammerCurl.jpeg",
+      "equipment": "Dumbbells"
+    },
+    {
+      "name": "Biceps Cable Curls",
+      "muscles": "Arm-Biceps",
+      "technique": "./data/exerciseTechniques/arm/cableCurl.txt",
+      "image": "./data/exerciseImages/arm/cableCurl.jpeg",
+      "equipment": "Cable Machine"
+    },
+    {
+      "name": "Incline Dumbbell Curls",
+      "muscles": "Arm-Biceps",
+      "technique": "./data/exerciseTechniques/arm/inclineDBCurl.txt",
+      "image": "./data/exerciseImages/arm/inclineDBCurl.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "Flat Close Grip Bench Press",
+      "muscles": "Arm-Triceps",
+      "technique": "./data/exerciseTechniques/arm/closeGripBenchPress.txt",
+      "image": "./data/exerciseImages/arm/closeGripBenchPress.jpeg",
+      "equipment": "Barbell & Bench"
+    },
+    {
+      "name": "Overhead Barbell/Dumbbell Triceps Extensions",
+      "muscles": "Arm-Triceps",
+      "technique": "./data/exerciseTechniques/arm/overheadExt.txt",
+      "image": "./data/exerciseImages/arm/overheadExt.jpeg",
+      "equipment": "Barbell/Dumbbells & Bench"
+    },
+    {
+      "name": "Bench Dips",
+      "muscles": "Arm-Triceps",
+      "technique": "./data/exerciseTechniques/arm/benchDip.txt",
+      "image": "./data/exerciseImages/arm/benchDip.jpeg",
+      "equipment": "Bench"
+    },
+    {
+      "name": "Cable Press-Downs",
+      "muscles": "Arm-Triceps",
+      "technique": "./data/exerciseTechniques/arm/cablePressdown.txt",
+      "image": "./data/exerciseImages/arm/cablePressdown.jpeg",
+      "equipment": "Cable Machine"
+    }
+  ],
+  "name": "My Workout"
+}

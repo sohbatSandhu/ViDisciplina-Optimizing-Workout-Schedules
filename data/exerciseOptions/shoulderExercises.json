@@ -1,0 +1,68 @@
+{
+  "exercises": [
+    {
+      "name": "Dumbbell Shoulder Press",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/shoulderPress.txt",
+      "image": "./data/exerciseImages/shoulder/shoulderPress.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "Reverse Butterfly",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/revButterfly.txt",
+      "image": "./data/exerciseImages/shoulder/revButterfly.jpeg",
+      "equipment": "Machine"
+    },
+    {
+      "name": "Dumbbell/Cable Front Raises",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/frontRaise.txt",
+      "image": "./data/exerciseImages/shoulder/frontRaise.jpeg",
+      "equipment": "Dumbbells/Cable Machine"
+    },
+    {
+      "name": "Arnold Press",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/arnoldPress.txt",
+      "image": "./data/exerciseImages/shoulder/arnoldPress.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "Barbell/Dumbbell/Machine Upright Rows",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/uprightDBRow.txt",
+      "image": "./data/exerciseImages/shoulder/uprightDBRow.jpeg",
+      "equipment": "Barbell/Dumbbells/Smith Machine"
+    },
+    {
+      "name": "Dumbbell/Cable Lateral Raises",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/latRaise.txt",
+      "image": "./data/exerciseImages/shoulder/latRaise.jpeg",
+      "equipment": "Dumbbells/Cable Machine"
+    },
+    {
+      "name": "Behind-The-Neck Overhead Press",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/btnOverheadPress.txt",
+      "image": "./data/exerciseImages/shoulder/btnOverheadPress.jpeg",
+      "equipment": "Barbell & Bench"
+    },
+    {
+      "name": "Barbell Row",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/barbellRow.txt",
+      "image": "./data/exerciseImages/shoulder/barbellRow.jpeg",
+      "equipment": "Barbell & Bench"
+    },
+    {
+      "name": "Reverse Flyes",
+      "muscles": "Shoulder",
+      "technique": "./data/exerciseTechniques/shoulder/revFly.txt",
+      "image": "./data/exerciseImages/shoulder/revFly.jpeg",
+      "equipment": "Dumbbells & Bench"
+    }
+  ],
+  "name": "My Workout"
+}

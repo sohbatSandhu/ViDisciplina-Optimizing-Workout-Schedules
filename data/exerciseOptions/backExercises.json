@@ -1,0 +1,61 @@
+{
+  "exercises": [
+    {
+      "name": "Pull Ups",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/pullUps.txt",
+      "image": "./data/exerciseImages/back/pullUps.jpeg",
+      "equipment": "Pull Up Bar"
+    },
+    {
+      "name": "PullOvers",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/pullOvers.txt",
+      "image": "./data/exerciseImages/back/pullOvers.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "T-Bar Rows",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/tBarRows.txt",
+      "image": "./data/exerciseImages/back/tBarRows.jpeg",
+      "equipment": "T-Bar Row Machine & Weight Plates"
+    },
+    {
+      "name": "Romanian DeadLift",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/romDeadlift.txt",
+      "image": "./data/exerciseImages/back/romDeadlift.jpeg",
+      "equipment": "Row Machine"
+    },
+    {
+      "name": "Incline Barbell/Dumbbell Rows",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/inclineDBRow.txt",
+      "image": "./data/exerciseImages/back/inclineDBRow.jpeg",
+      "equipment": "Barbell/Dumbbells & Bench"
+    },
+    {
+      "name": "Seated Machine Rows",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/seatedMachineRow.txt",
+      "image": "./data/exerciseImages/back/seatedMachineRow.jpeg",
+      "equipment": "Chest Supported Row Machine"
+    },
+    {
+      "name": "Inverted Rows",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/invertRow.txt",
+      "image": "./data/exerciseImages/back/invertRow.jpeg",
+      "equipment": "Squat Rack/Smith Machine"
+    },
+    {
+      "name": "Lateral Cable Pull Downs",
+      "muscles": "Back",
+      "technique": "./data/exerciseTechniques/back/latCablePull.txt",
+      "image": "./data/exerciseImages/back/latCablePull.jpeg",
+      "equipment": "Cable Pull down Machine"
+    }
+  ],
+  "name": "My Workout"
+}

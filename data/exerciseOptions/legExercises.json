@@ -1,0 +1,75 @@
+{
+  "exercises": [
+    {
+      "name": "Barbell/Dumbbell Squats",
+      "muscles": "Leg-Quads",
+      "technique": "./data/exerciseTechniques/leg/barbellSquat.txt",
+      "image": "./data/exerciseImages/leg/barbellSquat.jpeg",
+      "equipment": "Barbell/Dumbbells"
+    },
+    {
+      "name": "Barbell Front Squats",
+      "muscles": "Leg-Quads",
+      "technique": "./data/exerciseTechniques/leg/frontSquat.txt",
+      "image": "./data/exerciseImages/leg/frontSquat.jpeg",
+      "equipment": "Barbell/Dumbbells"
+    },
+    {
+      "name": "Dumbbell Lunges",
+      "muscles": "Leg-Quads",
+      "technique": "./data/exerciseTechniques/leg/dbLunges.txt",
+      "image": "./data/exerciseImages/leg/dbLunges.jpeg",
+      "equipment": "Dumbbells"
+    },
+    {
+      "name": "Leg Extensions",
+      "muscles": "Leg-Quads",
+      "technique": "./data/exerciseTechniques/leg/legExt.txt",
+      "image": "./data/exerciseImages/leg/legExt.jpeg",
+      "equipment": "Leg Extension Machine"
+    },
+    {
+      "name": "Sumo Deadlifts",
+      "muscles": "Leg-Hamstring",
+      "technique": "./data/exerciseTechniques/leg/sumoDeadlift.txt",
+      "image": "./data/exerciseImages/leg/sumoDeadlift.jpeg",
+      "equipment": "Barbell/Dumbbells"
+    },
+    {
+      "name": "Step-Ups Sideways",
+      "muscles": "Leg-Hamstring",
+      "technique": "./data/exerciseTechniques/leg/stepUpSide.txt",
+      "image": "./data/exerciseImages/leg/stepUpSide.jpeg",
+      "equipment": "Dumbbells & Bench"
+    },
+    {
+      "name": "Hanging Leg Curl",
+      "muscles": "Leg-Hamstring",
+      "technique": "./data/exerciseTechniques/leg/hangingLegCurl.txt",
+      "image": "./data/exerciseImages/leg/hangingLegCurl.jpeg",
+      "equipment": "Machine"
+    },
+    {
+      "name": "Leg Curls",
+      "muscles": "Leg-Hamstring",
+      "technique": "./data/exerciseTechniques/leg/legCurl.txt",
+      "image": "./data/exerciseImages/leg/legCurl.jpeg",
+      "equipment": "Leg Curl Machine"
+    },
+    {
+      "name": "Calf Raises",
+      "muscles": "Leg-Calf",
+      "technique": "./data/exerciseTechniques/leg/calfRaise.txt",
+      "image": "./data/exerciseImages/leg/calfRaise.jpeg",
+      "equipment": "Dumbbells(optional)"
+    },
+    {
+      "name": "Standing Barbell Calf Raise",
+      "muscles": "Leg-Calf",
+      "technique": "./data/exerciseTechniques/leg/barbellCalfRaise.txt",
+      "image": "./data/exerciseImages/leg/barbellCalfRaise.jpeg",
+      "equipment": "Barbell"
+    }
+  ],
+  "name": "My Workout"
+}
